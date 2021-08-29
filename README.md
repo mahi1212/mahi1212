@@ -13,7 +13,7 @@ Skills: JS / HTML / CSS / C++
 - 📫 How to reach me: My social media link is available below 
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi1212)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahi1212&show_icons=true)  
 
