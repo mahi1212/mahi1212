@@ -6,11 +6,11 @@
 
 Programming is a passion for me. I'm working as a web developer. I'm focused on learning error-free standard code. I try my best to satisfy my client by giving more flexibility than other programmers. Yeah, I love my job, I love what I'm doing!
 
-Skills: JS / HTML / CSS / C++
+Skills: JS / HTML / CSS / C++ / React.js
 
-- 🌱 I’m currently learning Java Script , React 
-- 👯 I’m looking to collaborate on Multi National Company 
-- 📫 How to reach me: My social media link is available below 
+- I’m currently learning Java Script and React 
+- I’m looking to collaborate on Multi National Company 
+- Reach me through my social media link is available below 
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi1212&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
