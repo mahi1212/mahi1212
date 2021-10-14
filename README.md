@@ -1,6 +1,6 @@
-### Hi there 👋, This is Mahinur Rahman
-#### Working as a web developer and CS student
-![Working as a web developer and CS student](https://avatars.githubusercontent.com/u/78277455?v=4)
+### Welcome, This is Mahinur Rahman's palace
+#### I'm a Web Developer and Competitive Programmer. Also a student of Computer Sceince. Recently i'm working hard to become a React.js developer. Keep me in prayers!
+![I'm a Web Developer and Competitive Programmer. Also a student of Computer Sceince. Recently i'm working hard to become a React.js developer. Keep me in prayers!](https://avatars.githubusercontent.com/u/78277455?v=4)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahi1212)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/str.mahi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/isnt__joyrahman/) 
 
